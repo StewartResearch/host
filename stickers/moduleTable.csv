@@ -1,4 +1,14 @@
 module,parameter,value,description
+Water,p_size,32,package name size
+Water,p_x,1,package name position x
+Water,p_y,1.6,package name position y
+Water,s_x,1,image position x
+Water,s_y,0.75,image position y
+Water,s_width,0.35,image width
+Water,s_height,0.35,image height
+Water,h_color,#78CC72,border color
+Water,h_fill,#185408,filling color
+Water,imageName,LandR,name of the image in tati-micheletti/host/images
 LandR,p_size,32,package name size
 LandR,p_x,1,package name position x
 LandR,p_y,1.6,package name position y
